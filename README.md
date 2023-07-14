@@ -7,7 +7,7 @@ This repository contains a Django application that demonstrates the integration 
 Before running the application, make sure you have the following:
 
 - Python installed
-- Flask framework installed
+- Django framework installed
 - JazzCash merchant credentials (Merchant ID, Password, Integrity salt)
 
 ## Configuration
